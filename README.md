@@ -3,7 +3,7 @@
 ## 1. String Manipulation 
 
 ### String Manipulation
-```
+```python
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         """
