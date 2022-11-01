@@ -1,6 +1,6 @@
 # leetcode-practice
 
-## 1. String Manipulation 
+## 1. Reverse String
 
 ### [String Manipulation](https://leetcode.com/problems/reverse-string/)
 ```python
