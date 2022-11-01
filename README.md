@@ -3,7 +3,7 @@
 ## 1. String Manipulation 
 
 ### String Manipulation
-
+```
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         """
@@ -14,3 +14,4 @@ class Solution:
         while left < right:
             s[left] , s[right] = s[right] , s[left]
             left , right = left+1 , right-1
+```
